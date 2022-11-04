@@ -1,2 +1,2 @@
 # HTML-Project
-This project was developed using html only by Sodiq Akanmu
+This project was developed with html only by Sodiq Akanmu
