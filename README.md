@@ -1,2 +1,3 @@
 # HTML-Project
-This project was developed with html only by Sodiq Akanmu
+This project was developed to revise some fundamentals of html.
+Developed by Sodiq Akanmu
